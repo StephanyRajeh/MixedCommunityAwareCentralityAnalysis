@@ -1,3 +1,3 @@
 # MixedCommunityAwareCentralityAnalysis
 
-Supplementary materials for the paper _How Correlated are Community-aware and Classical Network Centrality Measures_ submitted to CompleNet 2021.
+Supplementary materials for the paper _How Correlated Are Community-Aware and Classical Centrality Measures in Complex Networks?_ submitted to CompleNet 2021.
